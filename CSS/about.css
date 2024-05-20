@@ -1,0 +1,202 @@
+@media screen and (min-width: 992px) {/*media query that allows the size of the content to match the size of the screen*/
+    body{
+        background-color: #ebebeb;
+        position: relative;
+    }
+                    /*here is where all of the websites decoration and position values get stored*/
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    #img-label{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 12%;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .img1{
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .img2{
+        margin-top: 20%;
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .imgDescription1{
+        margin-top: 8%;
+        margin-left: 18%;
+    }
+    
+    .imgDescription2{
+        margin-top: 16%;
+        margin-right: 14%;
+    }
+    
+    #map{
+        margin-top: 8%;
+        margin-left: 22%;
+        padding-bottom: 20px;
+        border-style: solid;
+        width: 60%;
+        height: 400%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) { /*This media query is for the tablet screen size, so that everything looks good on a tablet as well*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .img1{
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .img2{
+        margin-top: 20%;
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .imgDescription1{
+        margin-top: 4%;
+        margin-left: 0%;
+    }
+    
+    .imgDescription2{
+        margin-top: 16%;
+        margin-right: 14%;
+    }
+    
+    #map{
+        margin-top: 8%;
+        margin-left: 6%;
+        padding-bottom: 20px;
+        border-style: solid;
+        width: 90%;
+        height: 350%;
+    }
+}
+
+@media screen and (max-width: 767px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .img1{
+        border-style: solid;
+        width: 15em;
+        height: 13em;
+    }
+    
+    
+    .imgDescription1{
+        margin-top: 8%;
+        margin-left: 0%;
+    }
+    
+    .imgDescription2{
+        margin-top: 16%;
+        margin-right: 14%;
+    }
+    
+    #map{
+        margin-top: 8%;
+        margin-left: 8%;
+        padding-bottom: 20px;
+        border-style: solid;
+        width: 90%;
+        height: 400%;
+        margin-bottom: 15%;
+    }
+}

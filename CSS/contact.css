@@ -1,0 +1,248 @@
+@media screen and (min-width: 1024px) {/*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+                    /*here is where all of the websites decoration and position values get stored*/
+                    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 3%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .titles{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .img{
+        border-style: solid;
+        width: 19em;
+        height: 19em;
+    }
+    
+    .imgDescription{
+        margin-top: 8%;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .align{
+        text-align: center;
+        width: 50%;
+        margin-left: 25%;
+    }
+    
+    .subbtn{
+        text-align: center;
+    }
+    
+    /**/
+    .hidden {
+        display: none;
+      }
+      
+      img {
+        height: 100px;
+        width: 100px;
+      }
+      
+      .error {
+        background-color: red;
+      }
+      
+      .success {
+        background-color: green;
+      }
+      
+      .message {
+        padding: 20px;
+      }
+  }
+
+@media screen and (min-width: 768px) and (max-width: 1023px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 3%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .titles{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .img{
+        border-style: solid;
+        width: 19em;
+        height: 19em;
+    }
+    
+    .imgDescription{
+        margin-top: 8%;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .align{
+        text-align: center;
+        width: 50%;
+        margin-left: 25%;
+    }
+    
+    .subbtn{
+        text-align: center;
+    }
+    
+    /**/
+    .hidden {
+        display: none;
+      }
+      
+      img {
+        height: 100px;
+        width: 100px;
+      }
+      
+      .error {
+        background-color: red;
+      }
+      
+      .success {
+        background-color: green;
+      }
+      
+      .message {
+        padding: 20px;
+      }
+  }
+
+@media screen and (max-width: 767px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 3%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .titles{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .img{
+        border-style: solid;
+        width: 19em;
+        height: 19em;
+    }
+    
+    .imgDescription{
+        margin-top: 8%;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .align{
+        text-align: center;
+        width: 50%;
+        margin-left: 25%;
+    }
+    
+    .subbtn{
+        text-align: center;
+    }
+    
+    /**/
+    .hidden {
+        display: none;
+      }
+      
+      img {
+        height: 100px;
+        width: 100px;
+      }
+      
+      .error {
+        background-color: red;
+      }
+      
+      .success {
+        background-color: green;
+      }
+      
+      .message {
+        padding: 20px;
+      }
+  }

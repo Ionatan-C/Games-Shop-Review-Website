@@ -1,0 +1,262 @@
+@media screen and (min-width: 1024px) {/*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+                    /*here is where all of the websites decoration and position values get stored*/
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    #img-label{
+        margin-right: 15%;
+    }
+
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .img1{
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .img2{
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .imgDescription1{
+        margin-top: 8%;
+        margin-left: 8%;
+    }
+
+    .imgDescription2{
+        margin-top: 8%;
+        margin-left: 8%;
+    }
+    
+    .container-1{
+        margin-top: 5%;
+    }
+
+    .scrollUp{
+        margin-top: 2%;
+    }
+  }
+
+@media screen and (min-width: 992px) and (max-width: 1210px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .img1{
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .img2{
+        margin-top: 20%;
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .imgDescription1{
+        margin-top: 3%;
+        margin-left: 20%;
+    }
+    
+    .imgDescription2{
+        margin-top: 13%;
+        margin-left: 20%;
+    }
+    
+    .container-1{
+        margin-top: 5%;
+    }
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 991px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+
+    body{
+        padding-bottom: 50px;
+    }
+
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .img1{
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .img2{
+        margin-top: 10%;
+        border-style: solid;
+        width: 22em;
+        height: 19em;
+    }
+    
+    .imgDescription1{
+        margin-top: 4%;
+        margin-left: 0%;
+    }
+    
+    .imgDescription2{
+        margin-top: 4%;
+        margin-right: 0%;
+    }
+    
+    .container-1{
+        margin-top: 5%;
+    }
+  }
+
+@media screen and (max-width: 767px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+    
+    .img1{
+        border-style: solid;
+        width: 18em;
+        height: 15em;
+    }
+    
+    .img2{
+        margin-top: 10%;
+        border-style: solid;
+        width: 18em;
+        height: 15em;
+    }
+    
+    .imgDescription1{
+        margin-top: 6%;
+        margin-left: 0%;
+    }
+
+    .imgDescription2{
+        margin-top: 6%;
+        margin-right: 0%;
+    }
+    
+    .container-1{
+        margin-top: 5%;
+    }
+  }

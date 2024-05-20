@@ -1,0 +1,426 @@
+@media screen and (min-width: 1026px) { /*media query that allows the size of the content to match the size of the screen its the same code as the others but others just have different values*/
+    html, body{/*holds the background colour*/
+        background-color: #ebebeb;
+        height: 100%;
+    }                    /*here is where all of the websites decoration and position values get stored*/
+
+    
+    body{/*the body's padding*/
+        padding-bottom: 50px;
+    }
+    
+    .btn{/*holds the buttons value*/
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{/**/
+        text-decoration: none;
+        color: black;
+    }
+    
+    
+    /*start of login form*/
+    .center{
+        margin-right: 5%;
+    }
+    
+    .container-2{ /*this is designing the form*/
+        border-style: solid;
+        position: relative;
+        margin-top: 5%;
+        margin-left: 39.5%;
+        background-color: aliceblue;
+        width: 25%;
+        padding: 3%;
+    }
+    
+    .container-2 .text{ /*this is designing the form text*/
+        font-size: 225%;
+        font-weight: 600;
+        text-align: center;
+    }
+    
+    .container-2 form .data{ /*this is designing the form data*/
+         height: 45px;
+         width: 100%;
+         margin: 40px 0;
+    }
+    
+    form .data input{ /*this is designing the form input*/
+        height: 100%;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+    }
+    
+    /*start of registration form*/
+    .center1{
+        margin-right: 5%;
+    }
+    
+    .container-3{/*this is designing the form*/
+        border-style: solid;
+        position: relative;
+        margin-top: 5%;
+        margin-left: 39.5%;
+        background-color: aliceblue;
+        width: 25%;
+        padding: 30px;
+    }
+    
+    .container-3 .text1{/*this is designing the form text*/
+        font-size: 225%;
+        font-weight: 600;
+        text-align: center;
+    }
+    
+    .container-3 form .data1{/*this is designing the form data*/
+         height: 45px;
+         width: 100%;
+         margin: 40px 0;
+    }
+    
+    form .data1 input{/*this is designing the form input*/
+        height: 100%;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+    }
+}
+
+@media screen and (min-width: 710px) and (max-width: 1025px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+    
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        display: fixed;
+        width: 2.5em;
+        height: 2.5em;
+        margin-left: 79%;
+    }
+    
+    
+    /*start of login form*/
+    .center{
+        margin-right: 5%;
+    }
+    
+    .container-2{
+        border-style: solid;
+        position: relative;
+        margin-top: 5%;
+        margin-left: 39.5%;
+        background-color: aliceblue;
+        width: 35%;
+        padding: 3%;
+    }
+    
+    .container-2 .text{
+        font-size: 225%;
+        font-weight: 600;
+        text-align: center;
+    }
+    
+    .container-2 form .data{
+         height: 45px;
+         width: 100%;
+         margin: 40px 0;
+    }
+    
+    form .data input{
+        height: 100%;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+    }
+    
+    /*start of registration form*/
+    .center1{
+        margin-right: 5%;
+    }
+    
+    .container-3{
+        border-style: solid;
+        position: relative;
+        margin-top: 5%;
+        margin-left: 39.5%;
+        background-color: aliceblue;
+        width: 35%;
+        padding: 30px;
+    }
+    
+    .container-3 .text1{
+        font-size: 225%;
+        font-weight: 600;
+        text-align: center;
+    }
+    
+    .container-3 form .data1{
+         height: 45px;
+         width: 100%;
+         margin: 40px 0;
+    }
+    
+    form .data1 input{
+        height: 100%;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+    }
+}
+
+@media screen and (min-width: 675px) and (max-width: 709px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+    
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        display: fixed;
+        width: 2.5em;
+        height: 2.5em;
+        margin-left: 79%;
+    }
+    
+    
+    /*start of login form*/
+    .center{
+        margin-right: 35%;
+    }
+    
+    .container-2{
+        border-style: solid;
+        position: relative;
+        margin-top: 5%;
+        margin-left: 39.5%;
+        background-color: aliceblue;
+        width: 55%;
+        padding: 3%;
+    }
+    
+    .container-2 .text{
+        font-size: 225%;
+        font-weight: 600;
+        text-align: center;
+    }
+    
+    .container-2 form .data{
+         height: 45px;
+         width: 100%;
+         margin: 40px 0;
+    }
+    
+    form .data input{
+        height: 100%;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+    }
+    
+    /*start of registration form*/
+    .center1{
+        margin-right: 35%;
+    }
+    
+    .container-3{
+        border-style: solid;
+        position: relative;
+        margin-top: 5%;
+        margin-left: 39.5%;
+        background-color: aliceblue;
+        width: 55%;
+        padding: 30px;
+    }
+    
+    .container-3 .text1{
+        font-size: 225%;
+        font-weight: 600;
+        text-align: center;
+    }
+    
+    .container-3 form .data1{
+         height: 45px;
+         width: 100%;
+         margin: 40px 0;
+    }
+    
+    form .data1 input{
+        height: 100%;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 674px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+    
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+    
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+    
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+    
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .footerImg{
+        display: fixed;
+        width: 2.5em;
+        height: 2.5em;
+        margin-left: 79%;
+    }
+    
+    
+    /*start of login form*/
+    .center{
+        margin-right: 35%;
+    }
+    
+    .container-2{
+        border-style: solid;
+        position: relative;
+        margin-top: 5%;
+        margin-left: 39.5%;
+        background-color: aliceblue;
+        width: 100%;
+        padding: 3%;
+    }
+    
+    .container-2 .text{
+        font-size: 225%;
+        font-weight: 600;
+        text-align: center;
+    }
+    
+    .container-2 form .data{
+         height: 45px;
+         width: 100%;
+         margin: 40px 0;
+    }
+    
+    form .data input{
+        height: 100%;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+    }
+    
+    /*start of registration form*/
+    .center1{
+        margin-right: 35%;
+    }
+    
+    .container-3{
+        border-style: solid;
+        position: relative;
+        margin-top: 5%;
+        margin-left: 39.5%;
+        background-color: aliceblue;
+        width: 100%;
+        padding: 30px;
+    }
+    
+    .container-3 .text1{
+        font-size: 225%;
+        font-weight: 600;
+        text-align: center;
+    }
+    
+    .container-3 form .data1{
+         height: 45px;
+         width: 100%;
+         margin: 40px 0;
+    }
+    
+    form .data1 input{
+        height: 100%;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+    }
+}
+

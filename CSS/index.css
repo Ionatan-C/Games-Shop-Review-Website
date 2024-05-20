@@ -1,0 +1,190 @@
+@media screen and (min-width: 1024px) {/*media query that allows the size of the content to match the size of the screen its the same code as the others but others just have different values*/
+    html, body{ /*holds the background colour*/
+        background-color: #ebebeb;
+        height: 100%;
+    }
+                    /*here is where all of the websites decoration and position values get stored*/
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+
+    #img-label{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+
+    .titles{
+       font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .img{
+        border-style: solid;
+        width: 23em;
+        height: 19em;
+}
+
+    .imgDescription{
+        margin-top: 8%;
+    }
+
+    .footerImg{
+        width: 2.5em;
+        height: 2.5em;
+    }
+  }
+
+@media screen and (min-width: 768px) and (max-width: 1023px) { /*This media query is for the tablet screen size, so that everything looks good on a tablet as well*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+
+    body{
+        padding-bottom: 50px;
+    }
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+
+    #img-label{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+
+    .titles{
+        margin-right: 3%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .img{
+        border-style: solid;
+        margin-right: 5%;
+        width: 14em;
+        height: 14em;
+}
+
+    .imgDescription{
+        margin-top: 8%;
+        margin-right: 5%;
+        display: fixed;
+    }
+
+    .footerImg{
+        display: fixed;
+        width: 2.5em;
+        height: 2.5em;
+        margin-left: 85%;
+    }
+  }
+
+@media screen and (max-width: 767px) { /*media query that allows the size of the content to match the size of the screen*/
+    html, body{
+        background-color: #ebebeb;
+        height: 100%;
+    }
+
+    #img-label{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body{
+        padding-bottom: 50px;
+    }
+    
+    .btn{
+        float: left;
+        margin-top: 25%;
+        bottom: 0;
+    }
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+    .bg{
+        margin: 1%;
+        border-style: solid;
+    }
+
+    .navigation{
+        margin-bottom: 5%;
+        background-color: #ebebeb;
+    }
+
+    .linkEdit{
+        text-decoration: none;
+        color: black;
+    }
+
+    .titles{
+        margin-left: 3%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .img{
+        border-style: solid;
+        width: 8em;
+        height: 8em;
+        margin-left: 2%;
+}
+
+    .imgDescription{
+        margin-top: 8%;
+        display: fixed;
+        font-size: 12px;
+    }
+
+    .footerImg{
+        display: fixed;
+        width: 2.5em;
+        height: 2.5em;
+        margin-left: 79%;
+    }
+  }

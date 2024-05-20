@@ -1,0 +1,20 @@
+[
+    {
+      "store": "GAME",
+      "city": "Worcester",
+      "location" : "In Sports Direct",
+      "products": {
+        "availabe": ["games", "consoles", "game accessories"],
+        "not available": ["clothing"]
+      }
+    },
+    {
+        "store": "CeX",
+        "city": "Worcester",
+        "location" : "In Town Center",
+        "products": {
+          "availabe": ["games", "consoles", "game accessories"],
+          "not available": ["clothing"]
+      }
+    }
+  ]
